@@ -1,6 +1,6 @@
-# 三尺青锋
+# 三尺青锋（文字镜像 · 正文见 yzrwiki.com）
 
-> 本文来自[影之刃零资源站](https://yzrwiki.com/wiki/three-foot-blade)，最新版本以站内页面为准。更新于 2026-07-17。
+> 本文来自[影之刃零资源站](https://yzrwiki.com/wiki/three-foot-blade)，最新版本以站内页面为准。更新于 2026-07-26。
 
 官方演示中主角使用的长剑类武器，具体属性与获取方式尚未公布。
 

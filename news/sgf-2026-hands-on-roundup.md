@@ -1,6 +1,6 @@
-# SGF 2026 试玩口碑汇总：功夫质感与多阶段 Boss 战获一致好评
+# SGF 2026 试玩口碑汇总：功夫质感与多阶段 Boss 战获一致好评（文字镜像 · 正文见 yzrwiki.com）
 
-> 本文来自[影之刃零资源站](https://yzrwiki.com/news/sgf-2026-hands-on-roundup)，最新版本以站内页面为准。更新于 2026-07-17。
+> 本文来自[影之刃零资源站](https://yzrwiki.com/news/sgf-2026-hands-on-roundup)，最新版本以站内页面为准。更新于 2026-07-26。
 
 现场试玩的核心看点集中在精确弹反、武器连招与自适应 Boss AI，展现出鲜明的武侠动作质感。
 

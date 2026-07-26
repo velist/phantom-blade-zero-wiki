@@ -1,6 +1,6 @@
-# 预购前观察点：夏末 15-20 分钟深度 State of Play 看什么
+# 预购前观察点：夏末 15-20 分钟深度 State of Play 看什么（文字镜像 · 正文见 yzrwiki.com）
 
-> 本文来自[影之刃零资源站](https://yzrwiki.com/guides/preorder-watch)，最新版本以站内页面为准。更新于 2026-07-05。
+> 本文来自[影之刃零资源站](https://yzrwiki.com/guides/preorder-watch)，最新版本以站内页面为准。更新于 2026-07-26。
 
 官方确认预购会与全新预告同期开启，随后还有专场深度演示；预购前最该看战斗、成长、探索与版本信息。
 

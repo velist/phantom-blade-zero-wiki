@@ -1,6 +1,6 @@
-# 影之刃零是 PS5 独占吗?平台与多平台情况完整说明
+# 影之刃零是 PS5 独占吗?平台与多平台情况完整说明（文字镜像 · 正文见 yzrwiki.com）
 
-> 本文来自[影之刃零资源站](https://yzrwiki.com/topics/ps5-exclusive)，最新版本以站内页面为准。更新于 2026-07-05。
+> 本文来自[影之刃零资源站](https://yzrwiki.com/topics/ps5-exclusive)，最新版本以站内页面为准。更新于 2026-07-26。
 
 不是完全独占：确认 PS5 与 PC（Steam）双平台同步发售；Xbox、Switch 2 暂无消息。官宣渠道以 State of Play 为主。
 

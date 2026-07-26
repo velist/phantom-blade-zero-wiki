@@ -1,6 +1,6 @@
-# 预购今夏开启：接下来还有一场 15-20 分钟的深度 State of Play
+# 预购今夏开启：接下来还有一场 15-20 分钟的深度 State of Play（文字镜像 · 正文见 yzrwiki.com）
 
-> 本文来自[影之刃零资源站](https://yzrwiki.com/news/preorder-and-deep-dive-outlook)，最新版本以站内页面为准。更新于 2026-07-18。
+> 本文来自[影之刃零资源站](https://yzrwiki.com/news/preorder-and-deep-dive-outlook)，最新版本以站内页面为准。更新于 2026-07-26。
 
 官方确认夏季开启预购并放出新预告片，夏末的专场深度演示将完整展示战斗、Boss、世界观与成长系统。
 

@@ -1,6 +1,6 @@
-# 影之刃零 PC 配置需求：官方要求公布了吗？
+# 影之刃零 PC 配置需求：官方要求公布了吗？（文字镜像 · 正文见 yzrwiki.com）
 
-> 本文来自[影之刃零资源站](https://yzrwiki.com/topics/pc-requirements)，最新版本以站内页面为准。更新于 2026-07-18。
+> 本文来自[影之刃零资源站](https://yzrwiki.com/topics/pc-requirements)，最新版本以站内页面为准。更新于 2026-07-26。
 
 官方尚未公布 CPU、显卡与内存要求；已确认 Windows 10/11、Denuvo 加密与手柄完全支持。本页区分官方信息与社区推测并持续更新。
 
