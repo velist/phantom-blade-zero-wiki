@@ -1,19 +1,30 @@
+---
+canonical: https://yzrwiki.com/wiki/the-order
+source: 影之刃零资源站 (yzrwiki.com)
+mirror_type: fact-summary
+updated: "2026-07-26"
+---
+
 # 组织（The Order）· 追杀魂的旧主（文字镜像 · 正文见 yzrwiki.com）
 
-> 本文来自[影之刃零资源站](https://yzrwiki.com/wiki/the-order)，最新版本以站内页面为准。更新于 2026-07-26。
+> 本页是[影之刃零资源站](https://yzrwiki.com/wiki/the-order)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-26。
 
 「组织」是魂原本效力的刺客势力，也是剧情开局追杀他的核心力量；首领遇刺案构成主线阴谋的起点。
 
-组织是魂曾经效力的刺客集团。公开剧情中，组织首领被杀，魂被扣上凶手罪名，随后遭到整个组织追捕。
+## 关键事实
 
-目前官方没有完整公开组织的层级、首领姓名与内部派系，但几个信息已经足够确定其叙事功能：
+- 规范页面 (canonical): https://yzrwiki.com/wiki/the-order
+- 条目类型: Wiki
+- 词条类型: 世界观
+- 最后更新: 2026-07-26
+- 信息来源: [PlayStation Blog / Phantom Blade Wiki](https://blog.playstation.com/2023/05/24/phantom-blade-zero-a-new-beginning-in-a-long-journey/)
+- 标签: 势力 / 刺客 / 剧情
 
-· 它代表魂的过去，也是玩家开局最大的敌意来源；
-· 组织掌握训练有素的刺客与追兵，适合作为早中期人形敌人的来源；
-· 首领遇刺案显然不是普通误会，而是主线阴谋的入口；
-· 魂要面对的并不只是外部怪物，还包括昔日同僚与旧秩序。
+## 要点摘要
 
-在动作设计上，人形敌人通常承担教学和节奏校准作用：弹反、破招、追击、处决这些核心动作更容易通过刺客、剑客、武僧一类敌人建立手感。发售后本站会将组织成员、Boss 与剧情章节拆分成独立词条。
+- 组织是魂曾经效力的刺客集团。
+
+[阅读完整内容 →](https://yzrwiki.com/wiki/the-order)
 
 ---
 

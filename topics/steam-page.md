@@ -1,22 +1,31 @@
+---
+canonical: https://yzrwiki.com/topics/steam-page
+source: 影之刃零资源站 (yzrwiki.com)
+mirror_type: fact-summary
+updated: "2026-07-26"
+---
+
 # 影之刃零 Steam 页面信息一览：心愿单已开放，定价与预购未上线（文字镜像 · 正文见 yzrwiki.com）
 
-> 本文来自[影之刃零资源站](https://yzrwiki.com/topics/steam-page)，最新版本以站内页面为准。更新于 2026-07-26。
+> 本页是[影之刃零资源站](https://yzrwiki.com/topics/steam-page)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-26。
 
 Steam 页面现状：可加愿望单、无定价与预购，系统要求仅列 Windows 10/11；已确认简中配音、15 种语言、Denuvo 与手柄完全支持。
 
-《影之刃零》Steam 商店页已上线（[直达链接](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/)），当前状态整理如下：
+## 关键事实
 
-· 发售日期：2026 年 10 月 29 日；
-· 购买状态：仅开放「添加至愿望单」，无定价、无预购按钮；
-· 版本信息：暂无标准版/豪华版等区分，特别版信息未公布；
-· 系统要求：最低与推荐均只列出 Windows 10/11 64 位，其余硬件要求 TBD；
-· 语言支持：界面/字幕共 15 种语言，简体中文与英语含完整配音（详见本站「中文支持」专题）；
-· DRM：页面标注内置 Denuvo 反篡改；
-· 操作与其他：完全支持手柄（官方推荐手柄游玩），支持 Steam 家庭共享。
+- 规范页面 (canonical): https://yzrwiki.com/topics/steam-page
+- 条目类型: 专题
+- 分类: 平台
+- 最后更新: 2026-07-26
+- 信息来源: [Steam 商店页](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/)
+- 标签: Steam / PC / 心愿单
 
-价格方面，Steam 国区定价尚无任何官方信号；可对照的参考是 PS5 实体版在海外零售渠道出现的约 58-70 美元区间，同样未经官方确认。
+## 常见问题
 
-预购确认于今年夏季开启。对 PC 玩家来说，现阶段最实际的动作就是加愿望单——Steam 会在预购开启与正式发售时推送提醒，本站也会同步更新定价与版本对比。
+- **影之刃零 Steam 上多少钱？** 尚未公布。Steam 页面目前只能加愿望单；PS5 实体版海外约 58-70 美元的零售信号可作粗略参考，非官方定价。
+- **Steam 页面有简体中文吗？** 有，商店页提供简中，游戏本体确认简中界面+官方中文配音。
+
+[阅读完整内容 →](https://yzrwiki.com/topics/steam-page)
 
 ---
 

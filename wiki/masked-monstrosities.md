@@ -1,21 +1,30 @@
+---
+canonical: https://yzrwiki.com/wiki/masked-monstrosities
+source: 影之刃零资源站 (yzrwiki.com)
+mirror_type: fact-summary
+updated: "2026-07-26"
+---
+
 # 怪面与异化敌人· 影境中的非人威胁（文字镜像 · 正文见 yzrwiki.com）
 
-> 本文来自[影之刃零资源站](https://yzrwiki.com/wiki/masked-monstrosities)，最新版本以站内页面为准。更新于 2026-07-26。
+> 本页是[影之刃零资源站](https://yzrwiki.com/wiki/masked-monstrosities)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-26。
 
 怪面、机关改造体、狮面火焰巨兽与鬃毛妖兽构成了已公开敌人阵容中最具辨识度的一组非人威胁。
 
-《影之刃零》的敌人并不只分为「人」和「兽」。更核心的视觉标签是怪面、改造体与机关异化。
+## 关键事实
 
-已公开画面里至少能看到几类代表：
+- 规范页面 (canonical): https://yzrwiki.com/wiki/masked-monstrosities
+- 条目类型: Wiki
+- 词条类型: 敌人
+- 最后更新: 2026-07-26
+- 信息来源: [官方截图 / 媒体试玩报告](https://x.com/pbzero_official/status/2063503702359699543)
+- 标签: 敌人 / Boss / 怪面
 
-· 怪面剑客：保留人形剑术，但外观和动作带有非人压迫感；
-· 狮面火焰巨兽：大体型 Boss，喷吐烈焰，适合多阶段战；
-· 鬃毛妖兽：在灯笼阵中与主角正面对撞，强调力量和速度；
-· 改造巨汉与金身武僧：把人体、机关与宗教/武侠意象混在一起。
+## 要点摘要
 
-怪面呈现为**被贪欲驱动、经机关改造的强化武者**；「人为何异化」也成为影境中权力、贪婪、爱恨与悲剧的具象化。
+- 《影之刃零》的敌人并不只分为「人」和「兽」。
 
-多阶段 Boss 战会逐步升级攻击模式，部分战斗还会加入小兵、环境要素或自适应 AI。招式表、破绽与打法会在正式版发售后持续补全。
+[阅读完整内容 →](https://yzrwiki.com/wiki/masked-monstrosities)
 
 ---
 

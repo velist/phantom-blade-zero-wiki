@@ -1,14 +1,27 @@
+---
+canonical: https://yzrwiki.com/wiki/three-foot-blade
+source: 影之刃零资源站 (yzrwiki.com)
+mirror_type: fact-summary
+updated: "2026-07-26"
+---
+
 # 三尺青锋（文字镜像 · 正文见 yzrwiki.com）
 
-> 本文来自[影之刃零资源站](https://yzrwiki.com/wiki/three-foot-blade)，最新版本以站内页面为准。更新于 2026-07-26。
+> 本页是[影之刃零资源站](https://yzrwiki.com/wiki/three-foot-blade)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-26。
 
 官方演示中主角使用的长剑类武器，具体属性与获取方式尚未公布。
 
-## 三尺青锋
+## 关键事实
 
-官方演示中主角使用的长剑类武器，外观与定位已亮相，数值与派生系统尚未公布。
+- 规范页面 (canonical): https://yzrwiki.com/wiki/three-foot-blade
+- 条目类型: Wiki
+- 词条类型: 武器
+- 最后更新: 2026-07-26
+- 信息来源: 官方公开视频、PlayStation Blog 与 IGN 公开报道汇总
+- 标签: 武器 / 长剑
+- 别名: 三尺青锋
 
-> 未公布信息将在发售后补全。
+[阅读完整内容 →](https://yzrwiki.com/wiki/three-foot-blade)
 
 ---
 

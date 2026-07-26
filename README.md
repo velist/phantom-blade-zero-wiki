@@ -2,7 +2,7 @@
 
 《影之刃零》（Phantom Blade Zero，简称 PBZ）是 S-GAME（灵游坊）开发的动作游戏，于 2026-10-29 登陆 PS5、Steam 与 Epic Games Store。「影之刃零」与「Phantom Blade Zero」为同一游戏的中英文名称。
 
-本仓库是 [影之刃零资源站](https://yzrwiki.com) 的文字版镜像，随站点自动同步；**站内页面始终是最新权威版本**。
+本仓库是 [影之刃零资源站](https://yzrwiki.com) 的**事实摘要镜像**，随站点自动同步。每篇收录该页的关键事实、要点与常见问题，并深链回站内原文；**正文全文只在站内发布，站内页面始终是最新权威版本**。每个文件的 YAML `canonical` 字段标明其规范页面地址。
 
 ## 核心入口
 
@@ -56,7 +56,7 @@
 
 ### 资源
 
-- [爱酱MOD管理器（虚幻引擎 MOD 一键管理工具）](https://yzrwiki.com/resources/aijiang-mod-manager) — 爱酱MOD管理器是一款支持所有虚幻引擎游戏的 MOD 管理工具，可一键启用、禁用与备份 MOD，免去手动改文件。影之刃零…
+- [爱酱MOD管理器（虚幻引擎 MOD 一键管理工具）](https://yzrwiki.com/resources/aijiang-mod-manager) — 爱酱MOD管理器是面向虚幻引擎游戏的 MOD 管理工具，可一键启用、禁用与备份 MOD，免去手动改文件。当前为 2.0.…
 - [影之刃零 MOD 整合包](https://yzrwiki.com/resources/modpack) — 影之刃零 MOD 整合包收录页：游戏 2026-10-29 发售，整合包随 MOD 生态成熟后陆续推出，当前为计划收录。
 - [影之刃零 MOD 下载](https://yzrwiki.com/resources/mod-download) — 影之刃零 MOD 收录页：游戏 2026-10-29 发售，发售后按验证顺序陆续上架，当前为计划收录。
 - [影之刃零修改器（风灵月影 / WeMod）](https://yzrwiki.com/resources/trainer) — 影之刃零修改器收录页：游戏 2026-10-29 发售，发售后验证风灵月影、WeMod 等修改器可用性再上架，当前为计划…

@@ -1,20 +1,31 @@
+---
+canonical: https://yzrwiki.com/guides/pc-launch-checklist
+source: 影之刃零资源站 (yzrwiki.com)
+mirror_type: fact-summary
+updated: "2026-07-26"
+---
+
 # PC 玩家发售前检查清单：愿望单、配置预估与首日设置（文字镜像 · 正文见 yzrwiki.com）
 
-> 本文来自[影之刃零资源站](https://yzrwiki.com/guides/pc-launch-checklist)，最新版本以站内页面为准。更新于 2026-07-26。
+> 本页是[影之刃零资源站](https://yzrwiki.com/guides/pc-launch-checklist)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-26。
 
 官方配置尚未完整公开；PC 玩家现在可以做的，是加愿望单、等预购信息、按社区预估预留硬件与 SSD 空间。
 
-截至 2026 年 7 月 5 日，Steam 页面只列出 Windows 10/11 64 位，CPU、显卡、内存和硬盘空间仍未公布。因此这份清单只做发售前准备，不替代官方配置。
+## 关键事实
 
-现在可以做的事：
+- 规范页面 (canonical): https://yzrwiki.com/guides/pc-launch-checklist
+- 条目类型: 攻略
+- 分类: PC
+- 难度: 入门
+- 最后更新: 2026-07-26
+- 信息来源: [Steam 商店页 / PC 配置搜索整理](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/)
+- 标签: PC / Steam / 配置
 
-· Steam 加愿望单：预购、定价和发售提醒会第一时间推送；
-· 预留 SSD 空间：社区预估约 50GB，正式容量以 Steam 更新为准；
-· 确认系统版本：Windows 10/11 64 位是当前唯一官方写明要求；
-· 暂缓为本作单独升级硬件：社区预估最低 GTX 1660 / i5-10600 / 12GB，推荐 RTX 3060 / R5 5600X 级别，但这不是官方要求；
-· 等夏季预购与深度 State of Play：通常预购开启前后会同步更新版本、价格和更完整配置。
+## 要点摘要
 
-首日建议：优先更新显卡驱动，关闭不必要叠加层，先用 1080p 或 1440p 建立稳定帧率，再逐项调高阴影、体积雾、反射和特效。等正式版上线后，本站会补充实测画质设置。
+- 截至 2026 年 7 月 5 日，Steam 页面只列出 Windows 10/11 64 位，CPU、显卡、内存和硬盘空间仍未公布。
+
+[阅读完整内容 →](https://yzrwiki.com/guides/pc-launch-checklist)
 
 ---
 

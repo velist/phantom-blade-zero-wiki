@@ -1,14 +1,27 @@
+---
+canonical: https://yzrwiki.com/wiki/seven-stars-disciple
+source: 影之刃零资源站 (yzrwiki.com)
+mirror_type: fact-summary
+updated: "2026-07-26"
+---
+
 # 七星剑阵首领（文字镜像 · 正文见 yzrwiki.com）
 
-> 本文来自[影之刃零资源站](https://yzrwiki.com/wiki/seven-stars-disciple)，最新版本以站内页面为准。更新于 2026-07-26。
+> 本页是[影之刃零资源站](https://yzrwiki.com/wiki/seven-stars-disciple)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-26。
 
 官方演示中出现的剑阵相关强敌，正式中文名与完整机制待确认。
 
-## 七星剑阵首领
+## 关键事实
 
-官方演示中出现的剑阵相关强敌，是一场**多阶段的门派群战**：弟子协同施压、阵型变化与阶段转换构成战斗的核心压力，随从小兵本身就是这场战斗机制的一部分（参见[Boss 战准备清单](https://yzrwiki.com/guides/boss-prep)）。
+- 规范页面 (canonical): https://yzrwiki.com/wiki/seven-stars-disciple
+- 条目类型: Wiki
+- 词条类型: 敌人
+- 最后更新: 2026-07-26
+- 信息来源: 官方公开视频、PlayStation Blog 与 IGN 公开报道汇总
+- 标签: Boss / 剑阵
+- 别名: 七星剑阵首领
 
-> 未公布信息将在发售后补全。
+[阅读完整内容 →](https://yzrwiki.com/wiki/seven-stars-disciple)
 
 ---
 

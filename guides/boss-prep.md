@@ -1,26 +1,31 @@
+---
+canonical: https://yzrwiki.com/guides/boss-prep
+source: 影之刃零资源站 (yzrwiki.com)
+mirror_type: fact-summary
+updated: "2026-07-26"
+---
+
 # Boss 战准备清单：6 条首日开荒原则（文字镜像 · 正文见 yzrwiki.com）
 
-> 本文来自[影之刃零资源站](https://yzrwiki.com/guides/boss-prep)，最新版本以站内页面为准。更新于 2026-07-26。
+> 本页是[影之刃零资源站](https://yzrwiki.com/guides/boss-prep)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-26。
 
 多阶段 Boss、自适应 AI、小兵与环境要素会显著改变战局；首日开荒前先建立正确预期。
 
-《影之刃零》的 Boss 战严苛但回报感强。发售前可先记住 6 条原则：
+## 关键事实
 
-1. 先看阶段，不急着贪刀。Boss 往往不止一个阶段，招式、节奏和场景压力会变化。
+- 规范页面 (canonical): https://yzrwiki.com/guides/boss-prep
+- 条目类型: 攻略
+- 分类: Boss
+- 难度: 进阶
+- 最后更新: 2026-07-26
+- 信息来源: [Hardcore Gamer / SGF 试玩报告整理](https://hardcoregamer.com/phantom-blade-zero-sgf-preview/)
+- 标签: Boss / 开荒 / 进阶
 
-2. 把小兵当成机制的一部分。部分战斗会出现随从、协同攻击或治疗行为，不要只盯主 Boss。
+## 要点摘要
 
-3. 观察环境。机关、地形或互动物会成为破局的一部分。
+- 《影之刃零》的 Boss 战严苛但回报感强。
 
-4. 保留影之武装资源。有限弹药副武器很可能是打断、补刀和处理特殊窗口的关键。
-
-5. 不要硬吃大招。**蓝光技可弹反、红光杀招必须闪避**——这套颜色语言在 Boss 战中最为密集，成功应对可衔接鬼步反击。比起背板一整套连招，更重要的是先学会用颜色分类每一个关键招式（详见[战斗预习](https://yzrwiki.com/guides/combat-primer)）。
-
-6. 接受失败信息。死亡或失败本身就是学习 Boss 模式的一部分。
-
-已亮相的 Boss 原型包括持巨锤的大体型武者、多阶段的门派弟子群战，以及会在流程中「回访」的宿敌型对手——阵容覆盖单体压制、群战与规则战三类，开荒时值得按类型分别准备。
-
-正式版发售后，本站会把每个 Boss 拆成招式表、阶段变化、推荐武器和视频节点四块更新。
+[阅读完整内容 →](https://yzrwiki.com/guides/boss-prep)
 
 ---
 

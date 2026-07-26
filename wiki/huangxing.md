@@ -1,16 +1,31 @@
+---
+canonical: https://yzrwiki.com/wiki/huangxing
+source: 影之刃零资源站 (yzrwiki.com)
+mirror_type: fact-summary
+updated: "2026-07-26"
+---
+
 # 黄星（文字镜像 · 正文见 yzrwiki.com）
 
-> 本文来自[影之刃零资源站](https://yzrwiki.com/wiki/huangxing)，最新版本以站内页面为准。更新于 2026-07-26。
+> 本页是[影之刃零资源站](https://yzrwiki.com/wiki/huangxing)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-26。
 
 官方实机演示中公开的强敌，演示中用于展示最高难度下会读招的自适应 AI，正式中文名待发售确认。
 
-## 黄星（Huang Xing）
+## 关键事实
 
-官方实机演示中公开的强敌之一。其背景与「昆仑」势力的叛离者相关，官方在最高难度「修罗」（暂译，Hellwalker）演示中用这场 Boss 战展示**自适应 AI**——Boss 会分析玩家的出招习惯并调整应对，类似格斗游戏式的读招。
+- 规范页面 (canonical): https://yzrwiki.com/wiki/huangxing
+- 条目类型: Wiki
+- 词条类型: 敌人
+- 最后更新: 2026-07-26
+- 信息来源: 官方公开视频、PlayStation Blog 与 IGN 公开报道汇总
+- 标签: Boss / 官方演示
+- 别名: 黄星 / 荒行子 / Huang Xing
 
-「黄星」为暂用中文名（Huang Xing，社区亦作「荒行子」），官方正式译名公布后更新。
+## 要点摘要
 
-> 未公布信息将在发售后补全。
+- **黄星（Huang Xing）**：官方实机演示中公开的强敌之一。
+
+[阅读完整内容 →](https://yzrwiki.com/wiki/huangxing)
 
 ---
 
