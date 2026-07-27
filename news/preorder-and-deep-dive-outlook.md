@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/news/preorder-and-deep-dive-outlook
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-07-26"
+updated: "2026-07-27"
 ---
 
-# 预购今夏开启：接下来还有一场 15-20 分钟的深度 State of Play（文字镜像 · 正文见 yzrwiki.com）
+# 预购今夏开启：官方同步新预告，深度演示留待夏末（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/news/preorder-and-deep-dive-outlook)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-26。
+> 本页是[影之刃零资源站](https://yzrwiki.com/news/preorder-and-deep-dive-outlook)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-27。
 
 官方确认夏季开启预购并放出新预告片，夏末的专场深度演示将完整展示战斗、Boss、世界观与成长系统。
 
@@ -18,7 +18,7 @@ updated: "2026-07-26"
 - 分类: 前瞻
 - 影响: 预购尚未开放，先把夏末深度演示当作决定是否下单的观察节点。
 - 发布日期: 2026-07-04
-- 最后更新: 2026-07-26
+- 最后更新: 2026-07-27
 - 信息来源: 本站整理自官方公开信息
 - 标签: 前瞻 / 预购 / State of Play
 

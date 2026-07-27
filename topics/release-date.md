@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/topics/release-date
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-07-26"
+updated: "2026-07-27"
 ---
 
 # 影之刃零为什么延期？9 月 9 日改 10 月 29 日全程复盘（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/topics/release-date)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-26。
+> 本页是[影之刃零资源站](https://yzrwiki.com/topics/release-date)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-27。
 
 原定 2026 年 9 月 9 日发售，2026 年 6 月 State of Play 宣布延期约 50 天至 10 月 29 日。灵游坊 CEO 梁其伟说明额外时间用于打磨角色模型与场景环境。本页复盘从 TGA 定档到改期的完整经过与影响。
 
@@ -16,7 +16,7 @@ updated: "2026-07-26"
 - 规范页面 (canonical): https://yzrwiki.com/topics/release-date
 - 条目类型: 专题
 - 分类: 发售信息
-- 最后更新: 2026-07-26
+- 最后更新: 2026-07-27
 - 信息来源: State of Play / 官方公告
 - 标签: 发售时间 / Steam / PS5
 - 别名: 影之刃零延期 / 影之刃零跳票 / 影之刃零改期 / PBZ 延期

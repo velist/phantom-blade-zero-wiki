@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/topics/pc-requirements
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-07-26"
+updated: "2026-07-27"
 ---
 
 # 影之刃零 PC 配置需求：官方要求公布了吗？（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/topics/pc-requirements)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-26。
+> 本页是[影之刃零资源站](https://yzrwiki.com/topics/pc-requirements)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-27。
 
 官方尚未公布 CPU、显卡与内存要求；已确认 Windows 10/11、Denuvo 加密与手柄完全支持。本页区分官方信息与社区推测并持续更新。
 
@@ -16,14 +16,14 @@ updated: "2026-07-26"
 - 规范页面 (canonical): https://yzrwiki.com/topics/pc-requirements
 - 条目类型: 专题
 - 分类: PC 配置
-- 最后更新: 2026-07-26
-- 信息来源: Steam 商店页
+- 最后更新: 2026-07-27
+- 信息来源: [Steam 商店页](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/)
 - 标签: 配置要求 / PC / Steam
 - 别名: 影之刃零配置 / PBZ配置 / 影刃零配置
 
 ## 要点摘要
 
-- **官方已确认的内容**：Steam 商店页目前确认的 PC 侧信息： 系统：64 位 Windows 10/11（CPU、显卡、内存、存储空间与分辨率档…
+- **官方已确认的内容**：Steam 商店页目前确认的 PC 侧信息： 系统：64 位 Windows 10/11（CPU、显卡、内存、存储空间与分辨率档位均未公布…
 - **官方未公布，本节将持续更新**：本站不会把社区估算写成配置要求。
 
 ## 常见问题
