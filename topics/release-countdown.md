@@ -17,7 +17,7 @@ updated: "2026-07-28"
 - 条目类型: 专题
 - 分类: 发售信息
 - 最后更新: 2026-07-28
-- 信息来源: [影之刃零官方网站与 State of Play](https://pbzero.s-game.com/)
+- 信息来源: [影之刃零官方网站与 State of Play](https://pbz.s-game.com/)
 - 标签: 发售时间 / 倒计时 / PS5 / Steam / Epic
 - 别名: 影之刃零什么时候发售 / 影之刃零发售时间 / 影刃零倒计时 / PBZ release
 
