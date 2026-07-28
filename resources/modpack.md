@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/resources/modpack
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-07-27"
+updated: "2026-07-28"
 ---
 
 # 影之刃零 MOD 整合包（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/resources/modpack)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-27。
+> 本页是[影之刃零资源站](https://yzrwiki.com/resources/modpack)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-28。
 
 影之刃零 MOD 整合包收录页：游戏 2026-10-29 发售，整合包随 MOD 生态成熟后陆续推出，当前为计划收录。
 
@@ -20,7 +20,7 @@ updated: "2026-07-27"
 - 当前状态: 计划收录
 - 授权: 待确认
 - 发布日期: 2026-07-18
-- 最后更新: 2026-07-27
+- 最后更新: 2026-07-28
 - 最后核验: 2026-07-18
 - 信息来源: 本站编辑整理
 - 标签: 整合包 / MOD / 下载 / 资源

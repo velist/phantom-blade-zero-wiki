@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/topics/mod-support
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-07-27"
+updated: "2026-07-28"
 ---
 
 # 影之刃零支持 MOD 吗？玩家自制内容与本站 MOD 中心规划（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/topics/mod-support)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-27。
+> 本页是[影之刃零资源站](https://yzrwiki.com/topics/mod-support)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-28。
 
 官方暂未公布 MOD 工具或创意工坊计划；PC（Steam）版的存在为社区 MOD 留出空间。本站 MOD 中心将于发售后开放收录。
 
@@ -16,7 +16,7 @@ updated: "2026-07-27"
 - 规范页面 (canonical): https://yzrwiki.com/topics/mod-support
 - 条目类型: 专题
 - 分类: MOD
-- 最后更新: 2026-07-27
+- 最后更新: 2026-07-28
 - 标签: MOD / PC / 社区
 
 ## 要点摘要

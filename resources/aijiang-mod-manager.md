@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/resources/aijiang-mod-manager
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-07-27"
+updated: "2026-07-28"
 ---
 
 # 爱酱MOD管理器（虚幻引擎 MOD 一键管理工具）（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/resources/aijiang-mod-manager)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-27。
+> 本页是[影之刃零资源站](https://yzrwiki.com/resources/aijiang-mod-manager)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-28。
 
 爱酱MOD管理器是面向虚幻引擎游戏的 MOD 管理工具，可一键启用、禁用与备份 MOD，免去手动改文件。当前为 2.0.4 测试版，按游戏逐个适配，影之刃零待发售后适配。本工具由本站作者开发并维护。
 
@@ -23,7 +23,7 @@ updated: "2026-07-27"
 - 作者: velist
 - 授权: 已获授权
 - 发布日期: 2026-07-24
-- 最后更新: 2026-07-27
+- 最后更新: 2026-07-28
 - 最后核验: 2026-07-26
 - 官方下载页: https://www.modmanger.com/
 - 信息来源: 本站作者开发

@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/wiki/soul
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-07-27"
+updated: "2026-07-28"
 ---
 
 # 魂（Soul）· 被诬陷的组织刺客（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/wiki/soul)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-27。
+> 本页是[影之刃零资源站](https://yzrwiki.com/wiki/soul)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-28。
 
 主角魂是「组织」昔日的精锐刺客，被构陷杀害首领后遭追杀，身负致命心伤，只剩 66 天查清真相。
 
@@ -16,7 +16,7 @@ updated: "2026-07-27"
 - 规范页面 (canonical): https://yzrwiki.com/wiki/soul
 - 条目类型: Wiki
 - 词条类型: 角色
-- 最后更新: 2026-07-27
+- 最后更新: 2026-07-28
 - 信息来源: [PlayStation Blog / 官方设定](https://blog.playstation.com/2023/05/24/phantom-blade-zero-a-new-beginning-in-a-long-journey/)
 - 标签: 主角 / 剧情 / 66 天
 

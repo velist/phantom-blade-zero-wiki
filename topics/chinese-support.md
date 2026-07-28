@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/topics/chinese-support
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-07-27"
+updated: "2026-07-28"
 ---
 
 # 影之刃零有中文吗？简体中文配音与本地化说明（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/topics/chinese-support)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-27。
+> 本页是[影之刃零资源站](https://yzrwiki.com/topics/chinese-support)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-28。
 
 有，而且是原生级：中国团队灵游坊开发，简中文本与官方中文配音（专业配音演员+唇形同步）自早期 PV 起即为标配。
 
@@ -16,7 +16,7 @@ updated: "2026-07-27"
 - 规范页面 (canonical): https://yzrwiki.com/topics/chinese-support
 - 条目类型: 专题
 - 分类: 语言
-- 最后更新: 2026-07-27
+- 最后更新: 2026-07-28
 - 信息来源: 官方公开信息
 - 标签: 中文 / 配音 / 本地化
 
