@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/resources/mod-download
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-07-28"
+updated: "2026-07-29"
 ---
 
 # 影之刃零 MOD 下载（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/resources/mod-download)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-28。
+> 本页是[影之刃零资源站](https://yzrwiki.com/resources/mod-download)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-29。
 
 影之刃零 MOD 收录页：游戏 2026-10-29 发售，发售后按验证顺序陆续上架，当前为计划收录。
 
@@ -20,7 +20,7 @@ updated: "2026-07-28"
 - 当前状态: 计划收录
 - 授权: 待确认
 - 发布日期: 2026-07-18
-- 最后更新: 2026-07-28
+- 最后更新: 2026-07-29
 - 最后核验: 2026-07-18
 - 信息来源: 本站编辑整理
 - 标签: MOD / 下载 / 资源

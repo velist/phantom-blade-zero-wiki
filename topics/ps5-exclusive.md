@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/topics/ps5-exclusive
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-07-28"
+updated: "2026-07-29"
 ---
 
 # 影之刃零是 PS5 独占吗？平台与多平台情况完整说明（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/topics/ps5-exclusive)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-28。
+> 本页是[影之刃零资源站](https://yzrwiki.com/topics/ps5-exclusive)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-29。
 
 不是完全独占：确认 PS5 与 PC（Steam / Epic）同步发售；Xbox、Switch 2 暂无消息。官宣渠道以 State of Play 为主。
 
@@ -16,7 +16,7 @@ updated: "2026-07-28"
 - 规范页面 (canonical): https://yzrwiki.com/topics/ps5-exclusive
 - 条目类型: 专题
 - 分类: 平台
-- 最后更新: 2026-07-28
+- 最后更新: 2026-07-29
 - 信息来源: 官方公告 / State of Play
 - 标签: PS5 / PC / 多平台
 

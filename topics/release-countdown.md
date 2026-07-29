@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/topics/release-countdown
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-07-28"
+updated: "2026-07-29"
 ---
 
 # 影之刃零什么时候发售？2026 年 10 月 29 日发售时间与倒计时（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/topics/release-countdown)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-28。
+> 本页是[影之刃零资源站](https://yzrwiki.com/topics/release-countdown)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-07-29。
 
 影之刃零将于 2026 年 10 月 29 日发售，登陆 PS5、Steam 与 Epic；本页提供实时倒计时，并持续核验发售时间与平台变化。
 
@@ -16,7 +16,7 @@ updated: "2026-07-28"
 - 规范页面 (canonical): https://yzrwiki.com/topics/release-countdown
 - 条目类型: 专题
 - 分类: 发售信息
-- 最后更新: 2026-07-28
+- 最后更新: 2026-07-29
 - 信息来源: [影之刃零官方网站与 State of Play](https://pbz.s-game.com/)
 - 标签: 发售时间 / 倒计时 / PS5 / Steam / Epic
 - 别名: 影之刃零什么时候发售 / 影之刃零发售时间 / 影刃零倒计时 / PBZ release
