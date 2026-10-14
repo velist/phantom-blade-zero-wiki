@@ -2,14 +2,14 @@
 canonical: https://yzrwiki.com/guides/pc-launch-checklist
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-08-13"
+updated: "2026-10-14"
 ---
 
-# PC 玩家发售前检查清单：愿望单、配置预估与首日设置（文字镜像 · 正文见 yzrwiki.com）
+# PC 玩家发售前检查清单：预购取舍、配置预估与首日设置（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/guides/pc-launch-checklist)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-08-13。
+> 本页是[影之刃零资源站](https://yzrwiki.com/guides/pc-launch-checklist)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-14。
 
-官方配置尚未完整公开；PC 玩家现在可以做的，是加愿望单、等预购信息、按社区预估预留硬件与 SSD 空间。
+预购已开启，但官方配置至今仍未公布——PC 玩家现在下单是在赌硬件。这份清单说明预购开启后还能做什么、以及为什么先别为本作升级配置。
 
 ## 关键事实
 
@@ -17,13 +17,13 @@ updated: "2026-08-13"
 - 条目类型: 攻略
 - 分类: PC
 - 难度: 入门
-- 最后更新: 2026-08-13
+- 最后更新: 2026-10-14
 - 信息来源: [Steam 商店页 / PC 配置搜索整理](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/)
 - 标签: PC / Steam / 配置
 
 ## 要点摘要
 
-- 截至 2026 年 7 月 5 日，Steam 页面只列出 Windows 10/11 64 位，CPU、显卡、内存和硬盘空间仍未公布。
+- 预购已于 2026 年 8 月 12 日开启，但 Steam 页面的配置栏没有跟着更新——到今天仍然只列出 Windows 10/11 64 位，CPU、显卡、内存和硬盘空间全部空着。
 
 [阅读完整内容 →](https://yzrwiki.com/guides/pc-launch-checklist)
 
