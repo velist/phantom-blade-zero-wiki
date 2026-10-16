@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/news/preorder-and-deep-dive-outlook
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-10-15"
+updated: "2026-10-16"
 ---
 
 # 回顾：预购开启前的官方口径与夏末深度演示预期（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/news/preorder-and-deep-dive-outlook)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-15。
+> 本页是[影之刃零资源站](https://yzrwiki.com/news/preorder-and-deep-dive-outlook)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-16。
 
 记录 2026 年 7 月、预购尚未开启时的官方口径：预购定在「今夏」、新预告同步、夏末另有专场深度演示。预购已于 8 月 12 日实际开启，结论见文末更新。
 
@@ -18,7 +18,7 @@ updated: "2026-10-15"
 - 分类: 前瞻
 - 影响: 写于预购开启之前的观望判断，已被 8 月 12 日的实际开启取代。
 - 发布日期: 2026-07-04
-- 最后更新: 2026-10-15
+- 最后更新: 2026-10-16
 - 信息来源: 本站整理自官方公开信息
 - 标签: 前瞻 / 预购 / State of Play
 

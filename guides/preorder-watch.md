@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/guides/preorder-watch
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-10-15"
+updated: "2026-10-16"
 ---
 
 # 影之刃零预购决策指南：两个版本怎么选、现在该不该下单（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/guides/preorder-watch)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-15。
+> 本页是[影之刃零资源站](https://yzrwiki.com/guides/preorder-watch)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-16。
 
 预购已于 2026-08-12 三平台同步开启。标准版与豪华版差价 ¥60 但豪华版内容未明列，预购奖励是提前获得而非独占，PC 配置至今未公布——这三件事决定了现在下单值不值。
 
@@ -17,7 +17,7 @@ updated: "2026-10-15"
 - 条目类型: 攻略
 - 分类: 购买建议
 - 难度: 观望
-- 最后更新: 2026-10-15
+- 最后更新: 2026-10-16
 - 信息来源: [影之刃零官方公告与平台商店页](https://pbz.s-game.com/zh-CN/news/pre-orders-now-available/)
 - 标签: 预购 / 购买建议 / 版本对比
 

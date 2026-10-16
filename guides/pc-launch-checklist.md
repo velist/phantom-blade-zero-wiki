@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/guides/pc-launch-checklist
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-10-15"
+updated: "2026-10-16"
 ---
 
 # PC 玩家发售前检查清单：预购取舍、配置预估与首日设置（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/guides/pc-launch-checklist)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-15。
+> 本页是[影之刃零资源站](https://yzrwiki.com/guides/pc-launch-checklist)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-16。
 
 预购已开启，但官方配置至今仍未公布——PC 玩家现在下单是在赌硬件。这份清单说明预购开启后还能做什么、以及为什么先别为本作升级配置。
 
@@ -17,7 +17,7 @@ updated: "2026-10-15"
 - 条目类型: 攻略
 - 分类: PC
 - 难度: 入门
-- 最后更新: 2026-10-15
+- 最后更新: 2026-10-16
 - 信息来源: [Steam 商店页 / PC 配置搜索整理](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/)
 - 标签: PC / Steam / 配置
 
