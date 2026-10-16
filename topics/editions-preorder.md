@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/topics/editions-preorder
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-10-14"
+updated: "2026-10-15"
 ---
 
 # 影之刃零版本对比与预购指南：价格、特典持续更新（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/topics/editions-preorder)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-14。
+> 本页是[影之刃零资源站](https://yzrwiki.com/topics/editions-preorder)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-15。
 
 预购已于 2026-08-12 在 PS5、Steam、Epic 三平台同步开启。标准版 ¥268、数字豪华版 ¥328；预购奖励为提前获得而非独占。豪华版内容官方尚未明列。
 
@@ -16,7 +16,7 @@ updated: "2026-10-14"
 - 规范页面 (canonical): https://yzrwiki.com/topics/editions-preorder
 - 条目类型: 专题
 - 分类: 购买指南
-- 最后更新: 2026-10-14
+- 最后更新: 2026-10-15
 - 信息来源: [影之刃零官方公告与平台商店页](https://pbz.s-game.com/zh-CN/news/pre-orders-now-available/)
 - 标签: 预购 / 版本对比 / 价格
 - 别名: 影之刃零预购 / 影之刃零版本 / PBZ preorder

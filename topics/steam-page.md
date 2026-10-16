@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/topics/steam-page
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-10-14"
+updated: "2026-10-15"
 ---
 
 # 影之刃零 Steam 页面信息一览：预购已开启，两个版本与定价（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/topics/steam-page)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-14。
+> 本页是[影之刃零资源站](https://yzrwiki.com/topics/steam-page)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-15。
 
 Steam 页面现状：预购已开启，标准版 ¥268、数字豪华版 ¥328；系统要求仍只列 Windows 10/11；已确认简中配音、15 种语言、Denuvo 与手柄完全支持。
 
@@ -16,7 +16,7 @@ Steam 页面现状：预购已开启，标准版 ¥268、数字豪华版 ¥328�
 - 规范页面 (canonical): https://yzrwiki.com/topics/steam-page
 - 条目类型: 专题
 - 分类: 平台
-- 最后更新: 2026-10-14
+- 最后更新: 2026-10-15
 - 信息来源: [Steam 商店页](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/)
 - 标签: Steam / PC / 预购
 

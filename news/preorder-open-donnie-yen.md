@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/news/preorder-open-donnie-yen
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-10-14"
+updated: "2026-10-15"
 ---
 
 # 影之刃零预购开启：标准版 ¥268、豪华版 ¥328，甄子丹饰演魔渊（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/news/preorder-open-donnie-yen)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-14。
+> 本页是[影之刃零资源站](https://yzrwiki.com/news/preorder-open-donnie-yen)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-15。
 
 2026 年 8 月 12 日，影之刃零在 PS5、Steam 与 Epic 三平台同步开启预购，标准版 ¥268、数字豪华版 ¥328；同日释出 11 分钟预告片，公开甄子丹动捕出演的暗魔天堡之主「魔渊」。
 
@@ -17,7 +17,7 @@ updated: "2026-10-14"
 - 条目类型: 资讯
 - 分类: 官方动态
 - 发布日期: 2026-08-12
-- 最后更新: 2026-10-14
+- 最后更新: 2026-10-15
 - 信息来源: [影之刃零官方公告](https://pbz.s-game.com/zh-CN/news/pre-orders-now-available/)
 - 标签: 预购 / 预告片 / 甄子丹
 
