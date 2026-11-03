@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/guides/preorder-watch
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-10-31"
+updated: "2026-11-03"
 ---
 
 # 影之刃零购买决策指南：标准版、豪华版与 PC 配置怎么选（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/guides/preorder-watch)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-31。
+> 本页是[影之刃零资源站](https://yzrwiki.com/guides/preorder-watch)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-11-03。
 
 发售后选版本已有明确依据：Steam 中国区标准版268元、豪华版328元、升级包60元；豪华内容已列明，配置也已公布。先按画质目标判断硬件，再决定是否需要外观与数字资料，不用因预购奖励制造紧迫感。
 
@@ -17,7 +17,7 @@ updated: "2026-10-31"
 - 条目类型: 攻略
 - 分类: 购买建议
 - 难度: 观望
-- 最后更新: 2026-10-31
+- 最后更新: 2026-11-03
 - 信息来源: [Steam 商店与 PlayStation 官方版本信息](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/?cc=cn&l=schinese)
 - 标签: 预购 / 购买建议 / 版本对比
 

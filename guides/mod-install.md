@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/guides/mod-install
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-10-31"
+updated: "2026-11-03"
 ---
 
 # 影之刃零 MOD 安装与排错：先核对作者说明和游戏版本（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/guides/mod-install)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-31。
+> 本页是[影之刃零资源站](https://yzrwiki.com/guides/mod-install)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-11-03。
 
 已有首批 MOD 的媒体报道，但本站未实测影之刃零的安装目录、加载器与兼容性。本文解释常见 UE 资源格式、安装前检查和可回退的排错方法，不把通用目录当成本作教程。
 
@@ -17,7 +17,7 @@ updated: "2026-10-31"
 - 条目类型: 攻略
 - 分类: MOD
 - 难度: 进阶
-- 最后更新: 2026-10-31
+- 最后更新: 2026-11-03
 - 信息来源: [社区 MOD 媒体报道与通用文件管理方法](https://www.gamersky.com/news/202610/2237055.shtml)
 - 标签: MOD / 安装 / 虚幻引擎
 

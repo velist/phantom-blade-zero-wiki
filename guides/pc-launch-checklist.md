@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/guides/pc-launch-checklist
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-10-31"
+updated: "2026-11-03"
 ---
 
 # 影之刃零 PC 首次运行清单：配置、安装空间与设置检查（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/guides/pc-launch-checklist)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-31。
+> 本页是[影之刃零资源站](https://yzrwiki.com/guides/pc-launch-checklist)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-11-03。
 
 官方配置已公布：16GB 内存、145GB SSD 空间，最低与推荐目标均须开启超分。首次运行先完成下载与更新、记录游戏和驱动版本，再建立无 MOD 的性能基线；媒体补丁大小与驱动建议存在差异，不盲目照搬。
 
@@ -17,7 +17,7 @@ updated: "2026-10-31"
 - 条目类型: 攻略
 - 分类: PC
 - 难度: 入门
-- 最后更新: 2026-10-31
+- 最后更新: 2026-11-03
 - 信息来源: [Steam 商店与官方配置公告；媒体技术分析](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/?cc=cn&l=schinese)
 - 标签: PC / Steam / 配置
 

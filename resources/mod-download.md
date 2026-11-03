@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/resources/mod-download
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-10-31"
+updated: "2026-11-03"
 ---
 
 # 影之刃零 MOD 下载与来源核验（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/resources/mod-download)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-31。
+> 本页是[影之刃零资源站](https://yzrwiki.com/resources/mod-download)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-11-03。
 
 已有媒体报道首批社区 MOD，本站尚未逐项核验作者、文件与正式版兼容性，当前仍为计划收录。待来源与测试完成后再提供资源，不把新闻标题当作可用性保证。
 
@@ -20,7 +20,7 @@ updated: "2026-10-31"
 - 当前状态: 计划收录
 - 授权: 待确认
 - 发布日期: 2026-07-18
-- 最后更新: 2026-10-31
+- 最后更新: 2026-11-03
 - 最后核验: 2026-07-18
 - 信息来源: [游民星空报道与本站收录状态](https://www.gamersky.com/news/202610/2237055.shtml)
 - 标签: MOD / 下载 / 资源

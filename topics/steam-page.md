@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/topics/steam-page
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-10-31"
+updated: "2026-11-03"
 ---
 
 # 影之刃零 Steam 页面信息：价格、配置、中文与云存档（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/topics/steam-page)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-31。
+> 本页是[影之刃零资源站](https://yzrwiki.com/topics/steam-page)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-11-03。
 
 Steam 已提供正式购买，国区标准版 268 元、豪华版 328 元、升级包 60 元；配置现列 16GB 内存和 145GB SSD 空间，支持简中完整配音、繁中界面字幕、Steam 云及成就，含 Denuvo。
 
@@ -16,7 +16,7 @@ Steam 已提供正式购买，国区标准版 268 元、豪华版 328 元、升�
 - 规范页面 (canonical): https://yzrwiki.com/topics/steam-page
 - 条目类型: 专题
 - 分类: 平台
-- 最后更新: 2026-10-31
+- 最后更新: 2026-11-03
 - 信息来源: [Steam 中国区商店页与官方 API](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/?cc=cn&l=schinese)
 - 标签: Steam / PC / 预购
 

@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/guides/save-location
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-10-31"
+updated: "2026-11-03"
 ---
 
 # 影之刃零存档位置与备份指南：路径待实测，先保护原档（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/guides/save-location)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-31。
+> 本页是[影之刃零资源站](https://yzrwiki.com/guides/save-location)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-11-03。
 
 Steam 已列出云存档支持，但本站尚未确认本作的本地目录、文件名和 Steam／Epic 互通性。本文只提供候选位置、可复核的定位方法与安全备份步骤，不把 UE 常见路径写成本作结论。
 
@@ -17,7 +17,7 @@ Steam 已列出云存档支持，但本站尚未确认本作的本地目录、�
 - 条目类型: 攻略
 - 分类: 存档
 - 难度: 入门
-- 最后更新: 2026-10-31
+- 最后更新: 2026-11-03
 - 信息来源: [Steam 商品页与通用存档备份方法](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/?cc=cn&l=schinese)
 - 标签: 存档 / 备份 / 虚幻引擎
 

@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/topics/ps5-exclusive
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-10-31"
+updated: "2026-11-03"
 ---
 
 # 影之刃零是 PS5 独占吗？PS5、PC 与实体版情况（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/topics/ps5-exclusive)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-31。
+> 本页是[影之刃零资源站](https://yzrwiki.com/topics/ps5-exclusive)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-11-03。
 
 影之刃零并非 PS5 完全独占，官网列出 PS5、Steam 与 Epic。官网日期为 2026 年 10 月 29 日，Steam 日期字段不同；PlayStation 官方最终预告另注明 PS5 实体光碟于 2027 年推出。
 
@@ -16,7 +16,7 @@ updated: "2026-10-31"
 - 规范页面 (canonical): https://yzrwiki.com/topics/ps5-exclusive
 - 条目类型: 专题
 - 分类: 平台
-- 最后更新: 2026-10-31
+- 最后更新: 2026-11-03
 - 信息来源: [影之刃零官网与 PlayStation 官方信息](https://pbz.s-game.com/en-US/)
 - 标签: PS5 / PC / 多平台
 

@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/topics/chinese-support
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-10-31"
+updated: "2026-11-03"
 ---
 
 # 影之刃零中文支持：简中配音、繁中字幕与平台语言表（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/topics/chinese-support)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-31。
+> 本页是[影之刃零资源站](https://yzrwiki.com/topics/chinese-support)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-11-03。
 
 Steam 语言表确认简体中文界面、完整配音与字幕，繁体中文支持界面和字幕；15 种文本语言中，简体中文与英语列有完整配音。PlayStation 的配音标记与 Steam 不同，按平台分别说明。
 
@@ -16,7 +16,7 @@ Steam 语言表确认简体中文界面、完整配音与字幕，繁体中文�
 - 规范页面 (canonical): https://yzrwiki.com/topics/chinese-support
 - 条目类型: 专题
 - 分类: 语言
-- 最后更新: 2026-10-31
+- 最后更新: 2026-11-03
 - 信息来源: [Steam 商店语言表与 PlayStation 官方支持页](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/?cc=cn&l=schinese)
 - 标签: 中文 / 配音 / 本地化
 

@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/topics/pc-requirements
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-10-31"
+updated: "2026-11-03"
 ---
 
 # 影之刃零 PC 配置要求：最低、推荐与 145GB SSD 空间（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/topics/pc-requirements)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-31。
+> 本页是[影之刃零资源站](https://yzrwiki.com/topics/pc-requirements)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-11-03。
 
 Steam 已公布最低和推荐配置：16GB 内存、145GB 可用空间且须安装在 SSD；GTX 1660 / RX 5500 XT 起步。1080p 30 帧与 1440p 60 帧目标均以开启超分为前提，不是原生分辨率承诺。
 
@@ -16,7 +16,7 @@ Steam 已公布最低和推荐配置：16GB 内存、145GB 可用空间且须安
 - 规范页面 (canonical): https://yzrwiki.com/topics/pc-requirements
 - 条目类型: 专题
 - 分类: PC 配置
-- 最后更新: 2026-10-31
+- 最后更新: 2026-11-03
 - 信息来源: [Steam 商店页与影之刃零官方配置公告](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/?cc=cn&l=schinese)
 - 标签: 配置要求 / PC / Steam
 - 别名: 影之刃零配置 / PBZ配置 / 影刃零配置
