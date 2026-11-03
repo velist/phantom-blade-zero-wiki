@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/topics/editions-preorder
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-11-03"
+updated: "2026-10-31"
 ---
 
 # 影之刃零版本对比与购买指南：268 元标准版、328 元豪华版（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/topics/editions-preorder)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-11-03。
+> 本页是[影之刃零资源站](https://yzrwiki.com/topics/editions-preorder)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-31。
 
 Steam 中国区标准版 268 元、数字豪华版 328 元，另有 60 元升级包。豪华内容已确认含武林传说、机械魔躯两套外观及游戏内美术设定、原声音乐；PS5 实体光碟计划于 2027 年推出。
 
@@ -16,7 +16,7 @@ Steam 中国区标准版 268 元、数字豪华版 328 元，另有 60 元升级
 - 规范页面 (canonical): https://yzrwiki.com/topics/editions-preorder
 - 条目类型: 专题
 - 分类: 购买指南
-- 最后更新: 2026-11-03
+- 最后更新: 2026-10-31
 - 信息来源: [Steam 中国区商店与 PlayStation 官方页面](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/?cc=cn&l=schinese)
 - 标签: 预购 / 版本对比 / 价格
 - 别名: 影之刃零预购 / 影之刃零版本 / PBZ preorder

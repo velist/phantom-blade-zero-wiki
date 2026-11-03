@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/guides/boss-prep
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-11-03"
+updated: "2026-10-31"
 ---
 
 # Boss 战准备清单：6 条首日开荒原则（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/guides/boss-prep)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-11-03。
+> 本页是[影之刃零资源站](https://yzrwiki.com/guides/boss-prep)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-31。
 
 依据发售前试玩整理的 Boss 战观察方向：阶段、小兵、环境与反击节奏。本站正式版招式表和打法尚待实测，不把试玩结论当作全流程攻略。
 
@@ -17,7 +17,7 @@ updated: "2026-11-03"
 - 条目类型: 攻略
 - 分类: Boss
 - 难度: 进阶
-- 最后更新: 2026-11-03
+- 最后更新: 2026-10-31
 - 信息来源: [Hardcore Gamer / SGF 试玩报告整理](https://hardcoregamer.com/phantom-blade-zero-sgf-preview/)
 - 标签: Boss / 开荒 / 进阶
 

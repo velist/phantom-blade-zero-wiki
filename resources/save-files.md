@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/resources/save-files
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-11-03"
+updated: "2026-10-31"
 ---
 
 # 影之刃零存档下载（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/resources/save-files)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-11-03。
+> 本页是[影之刃零资源站](https://yzrwiki.com/resources/save-files)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-31。
 
 本站尚无已验证的影之刃零存档资源，本地路径、文件兼容性与Steam／Epic互通仍待实测，当前为计划收录。Steam已列出云存档功能，但不能代替独立备份。
 
@@ -20,7 +20,7 @@ updated: "2026-11-03"
 - 当前状态: 计划收录
 - 授权: 待确认
 - 发布日期: 2026-07-18
-- 最后更新: 2026-11-03
+- 最后更新: 2026-10-31
 - 最后核验: 2026-07-18
 - 信息来源: [本站收录状态与 Steam 商品页](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/?cc=cn&l=schinese)
 - 标签: 存档 / 下载 / 资源

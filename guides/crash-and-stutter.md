@@ -2,12 +2,12 @@
 canonical: https://yzrwiki.com/guides/crash-and-stutter
 source: 影之刃零资源站 (yzrwiki.com)
 mirror_type: fact-summary
-updated: "2026-11-03"
+updated: "2026-10-31"
 ---
 
 # 影之刃零闪退与掉帧排查：运行记录、配置与设置检查（文字镜像 · 正文见 yzrwiki.com）
 
-> 本页是[影之刃零资源站](https://yzrwiki.com/guides/crash-and-stutter)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-11-03。
+> 本页是[影之刃零资源站](https://yzrwiki.com/guides/crash-and-stutter)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-10-31。
 
 官方配置已公布，媒体也有 PC 评测，但本站尚未完成正式版故障实测。本文提供可回退的通用排查顺序，说明日志候选目录、超分与帧生成区别，并保留补丁和驱动建议的证据边界。
 
@@ -17,7 +17,7 @@ updated: "2026-11-03"
 - 条目类型: 攻略
 - 分类: PC
 - 难度: 入门
-- 最后更新: 2026-11-03
+- 最后更新: 2026-10-31
 - 信息来源: [Steam 官方配置、媒体 PC 测试与通用排查方法](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/?cc=cn&l=schinese)
 - 标签: 排查 / 闪退 / 性能 / PC
 
