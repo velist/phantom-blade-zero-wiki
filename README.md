@@ -6,7 +6,11 @@
 
 ## 核心入口
 
-- [发售倒计时 Hub](https://yzrwiki.com/topics/release-countdown)：实时倒计时与官方节点时间轴
+- [影之刃零修改器](https://yzrwiki.com/resources/trainer)：本站作者自研，当前版本与网盘下载见页面
+- [爱酱MOD管理器](https://yzrwiki.com/resources/aijiang-mod-manager)：本站作者开发，虚幻引擎 MOD 一键启用、禁用与备份
+- [存档位置与备份](https://yzrwiki.com/guides/save-location)：改档、装 MOD 前先备份原档
+- [闪退与掉帧排查](https://yzrwiki.com/guides/crash-and-stutter)：可回退的通用排查顺序
+- [PC 配置要求](https://yzrwiki.com/topics/pc-requirements)：最低／推荐配置与 145GB SSD 空间
 - [MOD 插件](https://yzrwiki.com/resources)：MOD、修改器、存档、插件工具
 - [4K 壁纸](https://yzrwiki.com/wallpapers)：官方图版，逐张标注像素与来源
 - [QQ 社区与反馈](https://yzrwiki.com/community)：玩家群 809097763
@@ -68,4 +72,4 @@
 
 ## License
 
-内容以 CC BY-NC-SA 4.0 提供：转载请署名「影之刃零资源站」并链接原文页面（https://yzrwiki.com）。游戏未发售期间，资源条目为「计划收录」状态，以各页面标注为准。
+内容以 CC BY-NC-SA 4.0 提供：转载请署名「影之刃零资源站」并链接原文页面（https://yzrwiki.com）。资源条目的可下载状态与核验日期以各页面标注为准。
