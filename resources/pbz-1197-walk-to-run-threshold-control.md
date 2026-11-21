@@ -1,0 +1,44 @@
+---
+canonical: https://yzrwiki.com/resources/pbz-1197-walk-to-run-threshold-control
+source: 影之刃零资源站 (yzrwiki.com)
+mirror_type: fact-summary
+updated: "2026-11-21"
+---
+
+# 行走阈值（文字镜像 · 正文见 yzrwiki.com）
+
+> 本页是[影之刃零资源站](https://yzrwiki.com/resources/pbz-1197-walk-to-run-threshold-control)对应页面的**事实摘要**，不含正文全文。完整内容与最新核验结果以站内页面为准，更新于 2026-11-21。
+
+自定义摇杆推多远才开始小跑，推到接近底也保持走路，方便慢慢逛图。 作者 AngloFett，玩法类；本站提供夸克网盘、迅雷网盘、百度网盘镜像与 Nexus 原帖。
+
+## 关键事实
+
+- 规范页面 (canonical): https://yzrwiki.com/resources/pbz-1197-walk-to-run-threshold-control
+- 条目类型: 资源
+- 资源类型: MOD
+- 子分类: 玩法
+- 用途: 自定义摇杆推多远才开始小跑，推到接近底也保持走路，方便慢慢逛图。
+- 当前状态: 可下载
+- 版本: 1
+- 作者: AngloFett
+- 授权: 已获授权
+- 发布日期: 2026-11-14
+- 最后更新: 2026-11-21
+- 最后核验: 2026-11-06
+- 信息来源: [Nexus Mods（2026-11-06 核对）](https://www.nexusmods.com/phantombladezero/mods/1197)
+- 标签: 玩法
+- 别名: Walk to Run Threshold Control / 行走阈值
+
+## 要点摘要
+
+- **它是什么**：自定义摇杆推多远才开始小跑，推到接近底也保持走路，方便慢慢逛图。
+- **主要作用**：自定义起跑阈值 接近满推仍可走路
+- **安装与使用**：完全退出游戏。
+- **版本与来源**：| 项目 | 信息 | | --- | --- | | 本站镜像版本 |…
+- **文件校验**：SHA-256 3e5dc63367af1d06b0a0b49c1272…
+
+[阅读完整内容 →](https://yzrwiki.com/resources/pbz-1197-walk-to-run-threshold-control)
+
+---
+
+影之刃零（Phantom Blade Zero）· [yzrwiki.com](https://yzrwiki.com)
